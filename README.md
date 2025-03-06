@@ -1,5 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">Hi 👋, I'm Dilek Gül</h1>
+<h3 align="center">A passionate Machine Learning developer from Turkey</h3>
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ETafhAU51oC8KWCT2_arGQQj7gK72_YnGQ&s)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilekgl&label=Profile%20views&color=0e75b6&style=flat" alt="dilekgl" /> </p>
 
 - 🔭 I’m currently working on **machine learning**
@@ -8,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dilek gül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilek gül" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dilek-gül-0381791ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilek gül" height="30" width="40" /></a>
 <a href="https://kaggle.com/dilekg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dilekg" height="30" width="40" /></a>
 </p>
 
