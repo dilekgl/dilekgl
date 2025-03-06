@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmikeroyal%2FMachine-Learning-Guide&psig=AOvVaw0A7iEpJUqVZtKchxZS9AKm&ust=1741343138849000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiF7def9YsDFQAAAAAdAAAAABAE)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmikeroyal%2FMachine-Learning-Guide&psig=AOvVaw0A7iEpJUqVZtKchxZS9AKm&ust=1741343138849000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiF7def9YsDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Dilek Gül</h1>
 <h3 align="center">A passionate Machine Learning developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilekgl&label=Profile%20views&color=0e75b6&style=flat" alt="dilekgl" /> </p>
